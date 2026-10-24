@@ -1,0 +1,6 @@
+{
+  "name": "PsicoHistória: Fundamentos e Escolas Psicológicas",
+  "description": "Guia acadêmico interativo, slides de apresentação e análise comparativa das principais escolas e fundamentos da Psicologia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
